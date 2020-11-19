@@ -15,15 +15,15 @@
             }
             #thechild {
                 font-size:14px;
-                font-family:"trattatello", cursive;
+                font-family: monospace;
             }
             #themando {
                 font-size:14px;
-                font-family:"trattatello", cursive;
+                font-family: monospace;
             }
             #caradune {
                 font-size:14px;
-                font-family:"trattatello", cursive;
+                font-family: monospace;
             }
         </style>
     </head>
